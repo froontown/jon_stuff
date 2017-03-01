@@ -4,7 +4,7 @@ class MessageComponent extends React.Component {
   render() {
     return(
       <div>
-        <h1>Component Message: Hi!</h1>
+        <h1>IT WORKS!!!!!!!!!</h1>
       </div>
     );
   }
